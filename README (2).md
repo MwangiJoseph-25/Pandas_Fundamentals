@@ -1,4 +1,4 @@
-# Learning Pandas fundamentals using — Nairobi Housing & Order Datasets
+# Pandas fundamentals using
 
 ## Overview
 This project is a hands-on learning exercise covering core **pandas** concepts for data loading, cleaning, manipulation, and visualization. It uses two datasets — a Nairobi housing statistics dataset and an order/transactions dataset — to practice fundamental and intermediate pandas operations along with **matplotlib** and **seaborn** for data visualization.
